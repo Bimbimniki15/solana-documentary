@@ -1,0 +1,14 @@
+# BRANKAS RAHASIA SAYA
+.env
+*.json
+!package.json
+laporan.txt
+hunter.js
+node_modules/
+New-Item .env -Force
+# File Sensitif (Jangan Di-upload)
+id.json
+.env
+
+# File Eksekusi Sistem (Abaikan)
+*.exe
